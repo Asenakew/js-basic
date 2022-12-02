@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: 200px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+      }
+      .contianer{
+     text-align: center;
+     width: 600px;
+     display: flex;
+     justify-content:space-between;
+     border: 3px solid black;
+     height: 400px;
+     padding-left: 15%;
+     background-color: #1B244A;
+
+    
+  
+      
+          
+      
+        }
+      
+        .home{
+            margin-top: 50px;
+           margin-right: 100px;
+            color: white;   
+             
+        }
+        .guest h1{
+          margin-bottom: 40px;
+        
+             
+        }
+        .guest{
+            margin-top: 50px;
+           margin-right: 100px;
+            color: white;   
+             
+        }
+        .home h1{
+          margin-bottom: 40px;
+        
+             
+        }
+        #result-el{
+            display: block;
+            margin-bottom: 40px;
+            width: 150px;
+            height: 150px;
+            background-color: black;
+            border: solid black soolid;
+            padding-top: 20px;
+            padding-bottom: auto;
+            font-size: 100px;
+            color: #f94f6d;
+            font-family: 'Cursed Timer ULiL';
+                   
+               
+          }
+          #gustResult{
+            display: block;
+            margin-bottom: 40px;
+            width: 150px;
+            height: 150px;
+            background-color: black;
+            border: solid black soolid;
+            padding-top: 20px;
+            padding-bottom: auto;
+            font-size: 100px;
+            color: #f94f6d;
+            font-family: 'Cursed Timer ULiL';
+                   
+               
+          }  
+        .guest{
+            margin-top: 50px;
+           margin-right: 100px;
+                 
+             
+        }
+      button{
+       padding: 7px;
+     
+       text-align: center;
+       border: 2px solid black;
+        cursor: pointer;
+        transition: 0.5s all;
+        border-radius: 5px;
+    
+        
+    
+      }
+      button:hover{
+       background-color: black;
+       opacity: 0.6;
+       color: white;
+        
+     
+         
+     
+       }
+     #multiply{
+        display: block;
+         margin-top: 50px;
+         text-align: center;
+         margin-left: auto;
+         margin-right: auto;
+      
+          
+      
+        }
+        #sum-el{
+            display: block;
+       margin-top: 40px;
+      text-decoration: underline;
+      text-decoration-color: black;
+     
+          
+      
+        }
+        .span {
+     
+     margin-bottom: 10px;
+          
+      
+        }
+      #num1-el {
+            text-decoration: underline;
+          
+                 
+             
+               }
+        #num2-el {
+                text-decoration: underline;
+              
+                     
+                 
+                   }
+        
+    
+    
+    
